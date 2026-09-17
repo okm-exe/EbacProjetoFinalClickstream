@@ -6,6 +6,17 @@ O projeto utiliza dados de um e-commerce para analisar o comportamento dos usuá
 
 Os dados foram explorados, tratados e analisados utilizando Python e, posteriormente, apresentados em um dashboard interativo desenvolvido no Looker Studio.
 
+## Acesso ao dashboard
+
+[🔗 Acessar o dashboard no Looker Studio](https://datastudio.google.com/reporting/f043c2b9-b623-439e-9043-52cdf22da3e8)
+
+## Dados utilizados
+
+[🔗 Acessar o dataset no Kaggle](https://www.kaggle.com/datasets/wafaaelhusseini/e-commerce-transactions-clickstream)
+
+Os arquivos de dados utilizados no projeto não foram incluídos no repositório devido ao limite de tamanho do GitHub.
+
+
 ---
 
 ## Objetivo
@@ -23,11 +34,6 @@ Entre os principais pontos analisados estão:
 - avaliações dos produtos.
 
 ---
-
-## Dados utilizados
-
-O projeto utiliza o dataset **E-commerce Transactions Clickstream**, disponível no Kaggle.
-[🔗 Acessar o dataset no Kaggle](https://www.kaggle.com/datasets/wafaaelhusseini/e-commerce-transactions-clickstream)
 
 As bases utilizadas são:
 
@@ -196,10 +202,6 @@ Também foram adicionados filtros para facilitar a exploração dos dados:
 - **Data**
 - **Categoria**
 - **Fonte de tráfego**
-
-### Acesso ao dashboard
-
-[🔗 Acessar o dashboard no Looker Studio](https://datastudio.google.com/reporting/f043c2b9-b623-439e-9043-52cdf22da3e8)
 
 ---
 
