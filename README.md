@@ -14,7 +14,7 @@ Os dados foram explorados, tratados e analisados utilizando Python e, posteriorm
 
 [🔗 Acessar o dataset no Kaggle](https://www.kaggle.com/datasets/wafaaelhusseini/e-commerce-transactions-clickstream)
 
-Os arquivos de dados utilizados no projeto não foram incluídos no repositório devido ao limite de tamanho do GitHub.
+Os arquivos `events.csv` e `events_processed.csv` do projeto não foram incluídos no repositório devido ao limite de tamanho de 25mb do GitHub.
 
 
 ---
