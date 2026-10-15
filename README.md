@@ -7,6 +7,7 @@ O projeto utiliza dados de um e-commerce para analisar o comportamento dos usuá
 Os dados foram explorados, tratados e analisados utilizando Python e, posteriormente, apresentados em um dashboard interativo desenvolvido no Looker Studio.
 
 ## Acesso ao dashboard
+![E-COMMERCE ANALYTICS Dashboard](dash/dashboard.png)
 
 [🔗 Acessar o dashboard no Looker Studio](https://datastudio.google.com/reporting/f043c2b9-b623-439e-9043-52cdf22da3e8)
 
